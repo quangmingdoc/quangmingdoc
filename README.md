@@ -62,8 +62,6 @@ A B2B operations management application built for BBK Travel, a real tour operat
   - Created visuals that communicate the client's problem and the solution to stakeholders and the academic council
 - **Status:** In progress, with ongoing feedback from the client and our supervisor.
 
-▶️ [![BBK Travel demo](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)]
-
 _Private team repository._
 
 ---
