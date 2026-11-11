@@ -1,14 +1,18 @@
-# Hi, I'm Nguyễn Quang Minh
+# Hi, I'm Nguyen Quang Minh
 
-**Aspiring Product Manager / Business Analyst / Product Owner** · Student at **FPT University**, Vietnam
-
-I like turning messy real-world problems into clear product scope, then working closely with engineers to ship it. My work sits at the intersection of **AI, data, and business operations**: multi-agent systems for enterprise operations, computer vision for retail, and B2B software for real clients.
-
+**Aspiring PM / BA / PO.** Basically a human Jira ticket: slightly overdue, heavily commented, emotionally stuck in _"In Progress"_.
+ 
+- Still figuring out what I’m doing. I write about things I don’t understand so you don’t have to Google them.
+- Acceptance criteria for my life: _PTSD_. Acceptance criteria for your product: already drafted, versioned, and color-coded.
+Somehow, this exact chaos turned a vague brief into a multi-agent AI platform for Vinsmart Future (Vingroup).
+ 
+Student at **FPT University**, Vietnam · Working where **AI, data, and business operations** meet: multi-agent systems, computer vision for retail, and B2B software for real clients.
+ 
 - Focus: business analysis, product discovery, requirements & scoping, AI product design
 - Comfortable with: user stories & BRDs, UI/UX design, Figma, backend basics, SQL/PostgreSQL, Git, Python
 - Reach me: [nguyenqminh16@gmail.com](mailto:nguyenqminh16@gmail.com) · [LinkedIn](https://www.linkedin.com/in/minh-nguy%E1%BB%85n-quang-376051310)
 
-> Most of my project work is in private repositories owned by companies or project teams. Below I describe my role and approach; I'm happy to walk through details in an interview.
+> Most of my best work lives in private repos owned by companies and project teams, locked away like a family recipe. So instead of the code, you get the director's commentary below.
 
 ---
 
@@ -45,7 +49,7 @@ A computer-vision system that helps retail stores and shopping malls understand 
   - Built the business case: a hybrid on-premise B2B pricing model charged per camera, with unit economics and P&L/ROI across optimistic, base and pessimistic scenarios
 - **Outcome:** A working proof-of-concept running on real CCTV footage, showing live detection, tracking IDs, in/out counts and dwell-time metrics, backed by a business model for B2B retail customers.
 
-▶️ [![RetailVision Edge demo](https://img.youtube.com/vi/VtzKFgC_Eo4/hqdefault.jpg)](https://youtu.be/VtzKFgC_Eo4)
+▶️ Video demo: https://youtu.be/VtzKFgC_Eo4
 
 > _Private team repository._
 
@@ -64,5 +68,6 @@ A B2B operations management application built for BBK Travel, a real tour operat
 
 > _Private team repository._
 
+---
 
 <p align="center"><i>Always open to conversations about product, AI, and building things that people actually use.</i></p>
