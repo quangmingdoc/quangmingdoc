@@ -1,6 +1,6 @@
 # Hi, I'm Nguyen Quang Minh
 
-**Aspiring PM / BA / PO.** Basically a human Jira ticket: slightly overdue, heavily commented, emotionally stuck in _"In Progress"_.
+**Aspiring PM / BA / PO, and also working toward becoming an AI Engineer.** Basically a human Jira ticket: slightly overdue, heavily commented, emotionally stuck in _"In Progress"_.
  
 - Still figuring out what I’m doing. I write about things I don’t understand so you don’t have to Google them.
 - Acceptance criteria for my life: _PTSD_. Acceptance criteria for your product: already drafted, versioned, and color-coded.
@@ -9,6 +9,7 @@ Somehow, this exact chaos turned a vague brief into a multi-agent AI platform fo
 Student at **FPT University**, Vietnam · Working where **AI, data, and business operations** meet: multi-agent systems, computer vision for retail, and B2B software for real clients.
  
 - Focus: business analysis, product discovery, requirements & scoping, AI product design
+- Growing into: AI engineering, building and shipping LLM-powered and multi-agent systems, not just scoping them
 - Comfortable with: user stories & BRDs, UI/UX design, Figma, backend basics, SQL/PostgreSQL, Git, Python
 - Reach me: [nguyenqminh16@gmail.com](mailto:nguyenqminh16@gmail.com) · [LinkedIn](https://www.linkedin.com/in/minh-nguy%E1%BB%85n-quang-376051310)
 
