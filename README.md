@@ -1,18 +1,18 @@
-# Hi, I'm Nguyễn Quang Minh 👋
+# Hi, I'm Nguyễn Quang Minh
 
 **Aspiring Product Manager / Business Analyst / Product Owner** · Student at **FPT University**, Vietnam
 
 I like turning messy real-world problems into clear product scope, then working closely with engineers to ship it. My work sits at the intersection of **AI, data, and business operations**: multi-agent systems for enterprise operations, computer vision for retail, and B2B software for real clients.
 
-- 🎯 Focus: business analysis, product discovery, requirements & scoping, AI product design
-- 🛠️ Comfortable with: user stories & BRDs, UI/UX design, Figma, backend basics, SQL/PostgreSQL, Git, Python
-- 📫 Reach me: [nguyenqminh16@gmail.com](mailto:nguyenqminh16@gmail.com) · [LinkedIn](https://www.linkedin.com/in/minh-nguy%E1%BB%85n-quang-376051310)
+- Focus: business analysis, product discovery, requirements & scoping, AI product design
+- Comfortable with: user stories & BRDs, UI/UX design, Figma, backend basics, SQL/PostgreSQL, Git, Python
+- Reach me: [nguyenqminh16@gmail.com](mailto:nguyenqminh16@gmail.com) · [LinkedIn](https://www.linkedin.com/in/minh-nguy%E1%BB%85n-quang-376051310)
 
-> 🔒 Most of my project work is in private repositories owned by companies or project teams. Below I describe my role and approach; I'm happy to walk through details in an interview.
+> Most of my project work is in private repositories owned by companies or project teams. Below I describe my role and approach; I'm happy to walk through details in an interview.
 
 ---
 
-## ⭐ Highlight: c-AI — Multi-Agent Platform for Enterprise Operations
+## Highlight: c-AI — Multi-Agent Platform for Enterprise Operations
 `Vinsmart Future (Vingroup) · AI Thực Chiến internship` · `Role: Business Analyst, with UI/UX & Backend contributions`
 
 During my internship at Vinsmart Future, my team built **c-AI**, a multi-agent AI platform that supports operational decision-making for a business unit within Vingroup.
@@ -30,9 +30,9 @@ _Source code and business data are confidential and owned by Vinsmart Future / V
 
 ---
 
-## 🚀 Other Projects
+## Other Projects
 
-### 👁️ RetailVision Edge — AI Computer Vision for Retail Analytics
+### RetailVision Edge — AI Computer Vision for Retail Analytics
 `AI Thực Chiến program · Team project` · `Role: Product Manager / Product Owner` · `Team of 4`
 
 A computer-vision system that helps retail stores and shopping malls understand foot traffic from existing CCTV cameras.
@@ -49,7 +49,7 @@ A computer-vision system that helps retail stores and shopping malls understand 
 
 _Private team repository._
 
-### ✈️ BBK Travel — B2B Management App for a Travel Business
+### BBK Travel — B2B Management App for a Travel Business
 `FPT University graduation project · Real client` · `Role: UI/UX Developer & Business Analyst` · `Team of 5`
 
 A B2B operations management application built for BBK Travel, a real tour operator partnering with our team.
