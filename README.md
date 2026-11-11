@@ -64,12 +64,5 @@ A B2B operations management application built for BBK Travel, a real tour operat
 
 _Private team repository._
 
----
-
-## 📊 GitHub Stats
-
-![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=quangmingdoc&show_icons=true&hide_border=true&count_private=true)
-
----
 
 <p align="center"><i>Always open to conversations about product, AI, and building things that people actually use.</i></p>
