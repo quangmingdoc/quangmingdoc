@@ -45,7 +45,7 @@ A computer-vision system that helps retail stores and shopping malls understand 
   - Built the business case: a hybrid on-premise B2B pricing model charged per camera, with unit economics and P&L/ROI across optimistic, base and pessimistic scenarios
 - **Outcome:** A working proof-of-concept running on real CCTV footage, showing live detection, tracking IDs, in/out counts and dwell-time metrics, backed by a business model for B2B retail customers.
 
-▶️ [![RetailVision Edge demo](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://youtu.be/VtzKFgC_Eo4)
+▶️ [![RetailVision Edge demo](https://img.youtube.com/vi/VtzKFgC_Eo4/hqdefault.jpg)](https://youtu.be/VtzKFgC_Eo4)
 
 _Private team repository._
 
@@ -68,7 +68,7 @@ _Private team repository._
 
 ## 📊 GitHub Stats
 
-![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true)
+![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=quangmingdoc&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
