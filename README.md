@@ -26,7 +26,7 @@ During my internship at Vinsmart Future, my team built **c-AI**, a multi-agent A
   - **Backend:** Helped build the mock-data API so the system could be tested without touching production data
 - **What I learned:** Scoping AI products around a real pain point, designing for data governance in an enterprise, and bridging business and engineering.
 
-_Source code and business data are confidential and owned by Vinsmart Future / Vingroup._
+> _Source code and business data are confidential and owned by Vinsmart Future / Vingroup._
 
 ---
 
@@ -47,7 +47,7 @@ A computer-vision system that helps retail stores and shopping malls understand 
 
 ▶️ [![RetailVision Edge demo](https://img.youtube.com/vi/VtzKFgC_Eo4/hqdefault.jpg)](https://youtu.be/VtzKFgC_Eo4)
 
-_Private team repository._
+> _Private team repository._
 
 ### BBK Travel — B2B Management App for a Travel Business
 `FPT University graduation project · Real client` · `Role: UI/UX Developer & Business Analyst` · `Team of 5`
@@ -62,7 +62,7 @@ A B2B operations management application built for BBK Travel, a real tour operat
   - Created visuals that communicate the client's problem and the solution to stakeholders and the academic council
 - **Status:** In progress, with ongoing feedback from the client and our supervisor.
 
-_Private team repository._
+> _Private team repository._
 
 
 <p align="center"><i>Always open to conversations about product, AI, and building things that people actually use.</i></p>
