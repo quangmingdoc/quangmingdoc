@@ -1,6 +1,6 @@
 # Hi, I'm Nguyen Quang Minh
 
-**Aspiring PM / BA / PO, and also working toward becoming an AI Engineer.** Some cool pickup lines:
+Cool pickup lines I found:
  
 - Still figuring out what I’m doing. I write about things I don’t understand so you don’t have to Google them.
 - Acceptance criteria for my life: _PTSD_. Acceptance criteria for your product: already drafted, versioned, and color-coded.
